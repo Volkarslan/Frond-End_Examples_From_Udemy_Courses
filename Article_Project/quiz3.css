@@ -1,0 +1,41 @@
+body {
+	margin: 2% 25% 2% 25%;
+	border: 20px rgba(70,70,70,0.6) solid;
+	font-family: 'Noticia Text', serif;
+	/*background-color: rgb(246,241,226);*/
+	content: 0px;
+}
+div {
+	background-color: rgb(246,241,226);
+	padding-left: 5%;
+	padding-right: 5%; 
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin: 0;
+
+}
+.header {
+	color: darkblue;
+	letter-spacing: 0.1rem;
+	margin: 0;
+}
+.date { 
+	font-size: 20px;
+	text-transform: uppercase;
+	color: rgba(0,150,200,0.8);
+	/*letter-spacing: 4px;*/
+	letter-spacing: 0.3rem;
+}
+.firstPar {
+	border-left: 10px gray solid;
+	padding-left: 2%;
+}
+.lastPar {
+	padding-bottom: 2%;
+	border-bottom: 1px dotted gray;
+	border-radius: 10%;
+}
+/*hr{
+	border-bottom: 1px dotted gray;
+	border-radius: 5px;
+}*/
